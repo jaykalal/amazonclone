@@ -1,0 +1,6 @@
+.product-container {}
+
+.product-container img {
+    object-fit: contain;
+    max-height: 500px;
+}

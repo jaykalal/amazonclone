@@ -1,0 +1,118 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Max",
+            "subtitle": "Men's Regular Shirt",
+            "img": "https://m.media-amazon.com/images/I/71HQkF21nYL._AC_UL480_FMwebp_QL65_.jpg",
+            "price": 299,
+            "categoryId": 1,
+            "bestseller": true,
+            "description": "Classic round neck tee style with has logo embroidery at chest that enhances the modern and collegiate-inspired look.",
+            "features": [
+                "Care Instructions: Machine Wash",
+                "Fit Type: Regular Fit",
+                "Colour :Olive Green"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "SWISS CLUB",
+            "subtitle": "Mens Printed Casual wear",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/615aUa%2BZ4OL._UY741_.jpg",
+            "price": 299,
+            "categoryId": 1,
+            "bestseller": true,
+            "features": [
+                "Care Instructions: Machine Wash",
+                "Fit Type: Regular Fit",
+                "Colour :Olive Green"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "US Polo Association",
+            "subtitle": "Men's Slim Fit Shirt",
+            "img": "https://m.media-amazon.com/images/I/81eQAt4RjZL._AC_UL480_FMwebp_QL65_.jpg",
+            "price": 1200,
+            "categoryId": 1,
+            "features": [
+                "Care Instructions: Machine Wash",
+                "Fit Type: Regular Fit",
+                "Colour :Olive Green"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ALDIVO",
+            "subtitle": "Happy Birthday to You Gift for Mother",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51B1d%2BzaaQL.jpg",
+            "price": 679,
+            "categoryId": 0,
+            "features": [
+                "Care Instruction: Machine Wash Normal in Cold Water | Tumble Dry Low | Warm Iron As Needed | Do Not Bleach | Wash Cover Only Not The Filler.",
+                "Size: 12 inch X 12 inch (30cm X 30cm) | Material: Soft Micro-Satin | Filling Type: Conjugated Fiber"
+            ],
+            "description": "Snuggle in this solid lounge T-shirt tailored with short sleeves and crew neck. A perfect sleepwear that is not just comfortable but also a stylish pick."
+        },
+        {
+            "id": 4,
+            "name": "Redmi 9A",
+            "subtitle": "Redmi 9A (Midnight Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71hDPUM7VPL._SL1500_.jpg",
+            "price": 6979,
+            "categoryId": 2,
+            "bestseller": true,
+            "features": [
+                "13MP rear camera with AI portrait, AI scene recognition, HDR, pro mode | 5MP front camera",
+                "16.58 centimeters (6.53 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density and 20:9 aspect ratio",
+                "Android v10 operating system with upto 2.0GHz clock speed Mediatek Helio G25 octa core processor",
+                "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+                "Box also includes: Power adapter, USB cable, sim eject tool, warranty card and user guide"
+            ],
+            "description": "Redmi 9A comes with Octa-core Helio G25 processor and upto 2.0GHz clock speed. It also comes with 13 MP AI Rear camera along with 5 MP front camera. Redmi 9A also features 16.58 centimeters (6.53-inch) HD + display with 720x1600 pixels. It also comes with 5000 mAH large battery."
+        },
+        {
+            "id": 5,
+            "name": "VU",
+            "subtitle": "Vu 139 cm (55 inches) 4K Ultra HD Smart Android LED TV",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81LM06qe4BL._SL1500_.jpg",
+            "price": 42999,
+            "categoryId": 3,
+            "bestseller": true,
+            "features": [
+                "Resolution: 4K Ultra HD (3840x2160) | Refresh Rate: 60 hertz",
+                "Sound : 30 Watts output | Dolby Audio | DTS Virtual-X Surround Sound, TruBass HDX, TruSurround X, Dialog Clarity",
+                "Smart TV Features : Official Android Pie 9.0 | Google play store | ActiVoice Remote Control | Google Eco-system (Movie, TV, Music, Games) | Google Games | Chromecast Built-In | Bluetooth 5.0",
+                "Display : Ultra-edge 4K Display with 40 % Enhanced Brightness | Dolby Vision, HDDR10, HLG | VOD upscaling | Cricket Mode | PC and Game Mode"
+            ],
+            "description": "The Vu Ultra TV is not just a television but also a complete theatre experience for VOD content. The Vu Ultra TV offers Ultra-edge 4K Display with 40 % Enhanced Brightness with Ultra-sonic Sound and 30 Watt Box Speakers with Dolby Audio for an incredible picture and sound experience of VOD’s. This smart television gives Ultimate Performance with 64-bit Quad-Core Processor and runs on official Android Pie 9.0 with the Google eco system for pre-loaded premium apps, to ensure both picture & sound quantity and the best quality from your streaming content. Vu puts more control in your hands with the ActiVoice remote and 5 Hotkeys to instantly access built- in Licensed apps like Netflix, Amazon Prime Video, Hotstar, YouTube and Google Play with plenty of Indian apps and content too."
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Gifts & Articles",
+            "description": "A garment or outfit consists of one to three pieces such as party clothes, tailored suits, vest, slacks, shirt or skirt. Active sportswear and/or coats are acceptable as Fashion Revue entries b) Blouses, shirts, and sweaters are usually considered as garments if they are used to complete the outfit.",
+            "img": "https://elearningindustry.com/wp-content/uploads/2019/12/3-holiday-gifts-for-online-learners-and-teachers.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Clothes",
+            "description": "A garment or outfit consists of one to three pieces such as party clothes, tailored suits, vest, slacks, shirt or skirt. Active sportswear and/or coats are acceptable as Fashion Revue entries b) Blouses, shirts, and sweaters are usually considered as garments if they are used to complete the outfit.",
+            "img": "https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2020/GatewayNK/PC/spb_186x116._SY116_CB433889053_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mobiles & Accessories",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/614%2BW18ms%2BL._SL1500_.jpg",
+            "description": "Redmi 9A comes with Octa-core Helio G25 processor and upto 2.0GHz clock speed. It also comes with 13 MP AI Rear camera along with 5 MP front camera. Redmi 9A also features 16.58 centimeters (6.53-inch) HD + display with 720x1600 pixels. It also comes with 5000 mAH large battery."
+        },
+        {
+            "id": 3,
+            "name": "TV & Home Entertainment",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/611376x4eIL._SL1500_.jpg",
+            "description": "Redmi 9A comes with Octa-core Helio G25 processor and upto 2.0GHz clock speed. It also comes with 13 MP AI Rear camera along with 5 MP front camera. Redmi 9A also features 16.58 centimeters (6.53-inch) HD + display with 720x1600 pixels. It also comes with 5000 mAH large battery."
+        }
+    ]
+}

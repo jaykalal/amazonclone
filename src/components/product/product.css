@@ -1,0 +1,15 @@
+.chip-container {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.chip {
+    /* margin: 16px; */
+    padding: 2px 8px;
+    background: orange;
+    /* border-radius: 4px; */
+    color: white;
+    font-size: 12px;
+    display: inline;
+}
